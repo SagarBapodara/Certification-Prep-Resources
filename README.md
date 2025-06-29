@@ -2,7 +2,7 @@
 This repository contains all the resources (doc/video/dump links) that I used to prepare and pass my certifications. Resources will be extended as I complete additional certifications. 
 
 ## Certifications : 
-  - [Microsoft Azure Certified: Azure Fundamentals (AZ-900)](https://github.com/SagarBapodara/Walmart-Sales-Forecasting)
+  - [Microsoft Azure Certified: Azure Fundamentals (AZ-900)](https://github.com/SagarBapodara/Certification-Prep-Resources/blob/main/AZ900.md)
   - [Microsoft Azure Certified: Azure AI Fundamentals (AI-900)](https://github.com/SagarBapodara/Walmart-Sales-Forecasting)
   - [Microsoft Azure Certified: Azure Data Fundamentals (DP-900)](https://github.com/SagarBapodara/Walmart-Sales-Forecasting)
 
